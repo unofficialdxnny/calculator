@@ -1,4 +1,4 @@
-<h1 align="center">Calculator <img src="./images/Logo.png" align="right"></h1>
+<h1 align="center">Calculator <img src="./images/Logo.ico" align="right"></h1>
 <p align="center">Calculator app written in c# for windows</p>
 
 ----
