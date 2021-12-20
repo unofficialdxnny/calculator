@@ -8,3 +8,7 @@
 <img src="https://cdn.discordapp.com/attachments/914807323925569536/922573026250334208/unknown.png">
 
 ----
+
+## What Does It Do?
+
+- Addition
