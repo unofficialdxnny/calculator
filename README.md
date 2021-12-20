@@ -14,5 +14,5 @@
 - Addition
 - Subtraction
 - Multiplication
-
+- Division
 
