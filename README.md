@@ -1,2 +1,2 @@
-# calculator
-Calculator app for Window written in c#
+<h1 align="center">Calculator</h1>
+<p align="center">Calculator app writtrn in c# for windows</p>
