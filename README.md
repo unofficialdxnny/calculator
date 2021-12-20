@@ -12,3 +12,5 @@
 ## What Does It Do?
 
 - Addition
+- Subtraction
+
