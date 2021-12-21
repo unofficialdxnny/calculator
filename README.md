@@ -4,7 +4,7 @@
 ## contributing
 
 - Have Visual Studio
-
+- Download the code
 
 
 ----
