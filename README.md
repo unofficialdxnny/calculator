@@ -6,6 +6,7 @@
 - Have Visual Studio
 - Download the code
 - Open the folder in Visual Studio
+- Design your own version put everything into one folder
 
 
 ----
